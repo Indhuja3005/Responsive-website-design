@@ -9,6 +9,9 @@
     --pale:#FCEFCB;
 
 }
+* {
+    box-sizing: border-box;
+}
 
 
 body,h2{
